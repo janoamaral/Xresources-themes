@@ -1,0 +1,29 @@
+!user 77 - Mashup colors
+*foreground:        #B2A191
+*background:        #171717
+*borderColor:       #171717
+*cursorColor:       #C7A551
+!black
+*color0:            #202020
+*color8:            #404040
+!red
+*color1:            #BF3F34
+*color9:            #FF6C5F
+!green
+*color2:            #707D22
+*color10:           #B8CA4B
+!yellow
+*color3:            #BF7A29
+*color11:           #C7A551
+!blue
+*color4:            #627A92
+*color12:           #95B9DE
+!magenta
+*color5:            #75507B
+*color13:           #AD7FA8
+!cyan
+*color6:            #757978
+*color14:           #9FA590
+!white
+*color7:            #B2A191
+*color15:           #E8D0C3 

@@ -1,0 +1,29 @@
+!Muzieca lowcontrast
+
+urxvt*background:       #3C3B37
+urxvt*foreground:       #93a1a1
+
+!black
+*color0:  #5F5F5F
+*color8:  #828282
+!red
+*color1:  #d96468
+*color9:  #d98f93
+!green
+*color2:  #a2d964
+*color10: #b8d98f
+!yellow
+*color3:  #d9c964
+*color11: #d9cf8f
+!blue 
+*color4:  #64a2d9
+*color12: #8f99d9
+!magenta
+*color5:  #9a64d9
+*color13: #b08fd9
+!cyan
+*color6:  #64d9d5
+*color14: #8fd9d5
+!white
+*color7:  #989898
+*color15: #C5C5C5

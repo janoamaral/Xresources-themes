@@ -1,0 +1,37 @@
+!!NumiX Darkest.
+!!BY WuX 
+
+*background: #282828
+*foreground: #A2A2A2
+
+!Black
+*color0:    #555555
+*color8:    #888888
+
+!Red
+*color1:    #9C3528
+*color9:    #d64937
+
+!Green
+*color2:    #61BC3B
+*color10:   #86DF5D
+
+!yellow
+*color3:    #F3B43A
+*color11:   #FDD75A
+
+!blue
+*color4:    #0D68A8
+*color12:   #0F75BD
+
+!Magenta
+*color5:    #744560
+*color13:   #9E5E83
+
+!Cyan
+*color6:    #288e9c
+*color14:   #37c3d6
+
+!White
+*color7:    #A2A2A2
+*color15:   #f9f9f9

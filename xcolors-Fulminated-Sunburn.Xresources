@@ -1,0 +1,37 @@
+! Fulminated - Sunburn
+
+
+*.foreground:   #fe7000
+*.background:   #110900
+
+! black
+*.color0:       #110900
+*.color8:       #723d02
+
+! red
+*.color1:       #fe4400
+*.color9:       #fe4400
+
+! green
+*.color2:       #e77d29
+*.color10:      #fe4400
+
+! yellow
+*.color3:       #e77d29
+*.color11:      #fe4400
+
+! blue
+*.color4:       #814618
+*.color12:      #814618
+
+! magenta
+*.color5:       #fe4400
+*.color13:      #fe4400
+
+! cyan
+*.color6:       #e77d29
+*.color14:      #fe4400
+
+! white
+*.color7:       #e77d29
+*.color15:      #e77d29

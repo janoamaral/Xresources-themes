@@ -1,0 +1,32 @@
+! grandshell color scheme
+! based on steckerhalter (grandshell-theme for emacs).
+! https://github.com/steckerhalter/grandshell-theme
+
+*background: #000000
+*foreground: #bebebe
+*cursorColor: #aa2255
+
+! black + red
+*color0: #000000
+*color1: #f25a5a
+! green + yellow
+*color2: #77bb33
+*color3: #efc334
+! blue + purple
+*color4: #5555dd
+*color5: #C350FF
+! cyan + white
+*color6: #5af2ee
+*color7: #bebebe
+! bright-black + bright-red
+*color8: #222222
+*color9: #ffbbbb
+! bright-green + bright-yellow
+*color10: #dcf692
+*color11: #f6df92
+! bright-blue + bright-purple
+*color12: #b2baf6
+*color13: #f09fff
+! bright-cyan + bright-white
+*color14: #5af2ee
+*color15: #eeeeee

@@ -1,0 +1,31 @@
+!BLK
+*color0:             #666666
+*color8:             #999999
+
+!RED
+*color1:             #CC6666
+*color9:           #FF9999
+
+!GRN
+*color2:             #66CC99
+*color10:            #99FFCC
+
+!YEL
+*color3:             #CC9966
+*color11:            #FFCC99
+
+!BLE
+*color4:             #6699CC
+*color12:            #99CCFF
+
+!MAG
+*color5:             #CC6699
+*color13:            #FF99CC
+
+!CYN
+*color6:             #66CCCC
+*color14:            #99FFFF
+
+!WHT
+*color7:             #CCCCCC
+*color15:            #FFFFFF

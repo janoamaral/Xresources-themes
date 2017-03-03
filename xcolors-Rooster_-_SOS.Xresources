@@ -1,0 +1,27 @@
+!Rooster - SOS
+urxvt*background:  #373b43
+urxvt*foreground:  #78796f
+!black
+urxvt*color0:      #373b43
+urxvt*color8:      #373b43
+!red
+urxvt*color1:      #fdcd39
+urxvt*color9:      #fdcd39
+!green
+urxvt*color2:      #fbfd59
+urxvt*color10:     #fbfd59
+!yellow
+urxvt*color3:      #deac40
+urxvt*color11:     #deac40
+!blue
+urxvt*color4:      #afb171
+urxvt*color12:     #afb171
+!magenta
+urxvt*color5:      #b387e7
+urxvt*color13:     #b387e7
+!cyan
+urxvt*color6:      #63e860
+urxvt*color14:     #63e860
+!white
+urxvt*color7:      #efdecb
+urxvt*color15:     #efdecb

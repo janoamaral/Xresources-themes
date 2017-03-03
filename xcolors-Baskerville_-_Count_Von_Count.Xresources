@@ -1,0 +1,36 @@
+!Baskerville - Count Von Count
+*background:  #000000
+*foreground:  #919191
+
+
+! BLACK
+*color0:      #303030
+*color8:      #5E5E5E
+
+! WHITE
+*color7:      #C6C6C6
+*color15:     #FFFFFF
+
+! RED
+*color1:      #C10023
+*color9:      #FF8781
+
+! YELLOW
+*color3:      #B51D2C
+*color11:     #FF948B
+
+! GREEN
+*color2:      #A83334
+*color10:     #FFA095
+
+! CYAN
+*color6:      #9A413D
+*color14:     #FFAAA0
+
+! BLUE
+*color4:      #8C4B46
+*color12:     #FEB2AA
+
+! MAGENTA
+*color5:      #7D534F
+*color13:     #EBBBB5

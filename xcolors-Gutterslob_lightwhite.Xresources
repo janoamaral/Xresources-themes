@@ -1,0 +1,25 @@
+!Gutterslob lightwhite
+!BLACK
+URxvt*color0:             #808080
+URxvt*color8:             #9c9c9c
+!RED
+URxvt*color1:             #c48980
+URxvt*color9:             #a15048
+!GREEN
+URxvt*color2:             #8da862
+URxvt*color10:            #4b7508
+!YELLOW
+URxvt*color3:             #b29b7a
+URxvt*color11:            #916f27
+!BLUE
+URxvt*color4:             #809bc4
+URxvt*color12:            #567cb0
+!MAGENTA
+URxvt*color5:             #aa88b2
+URxvt*color13:            #964e8f
+!CYAN
+URxvt*color6:             #82adad
+URxvt*color14:            #4e848a
+!WHITE
+URxvt*color7:             #bfbfbf
+URxvt*color15:            #9c9c9c

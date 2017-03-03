@@ -1,0 +1,23 @@
+! :: JellyX :: A delicious collision of Jellybeans and Xoria256
+
+! heavily based on bubblegum, by Kyla
+! https://bbs.archlinux.org/viewtopic.php?pid=1033513#p1033513
+
+*color0: #000000
+*color1: #d75f5f
+*color2: #00af87
+*color3: #afd75f
+*color4: #5fafd7
+*color5: #8787af
+*color6: #00afd7
+*color7: #ffffff
+*color8: #0a0a0a
+*color9: #d787af
+*color10: #5faf5f
+*color11: #d7af5f
+*color12: #87afd7
+*color13: #8787d7
+*color14: #87afff
+*color15: #ffffff
+*background: #000000
+*foreground: #a8a8a8

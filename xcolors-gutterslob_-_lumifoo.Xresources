@@ -1,0 +1,28 @@
+!gutterslob lumifoo
+URxvt.background: #1e2021
+URxvt.foreground: #888a8c
+
+!Black
+URxvt.color0:     #515151
+URxvt.color8:     #707172
+!Red
+URxvt.color1:     #bf6382
+URxvt.color9:     #eaaec2
+!Green
+URxvt.color2:     #65a446
+URxvt.color10:    #aed49b
+!Yellow
+URxvt.color3:     #ad8a43
+URxvt.color11:    #d4c3a0
+!Blue
+URxvt.color4:     #6b85c2
+URxvt.color12:    #afc4e9
+!Magenta
+URxvt.color5:     #9e6bb8
+URxvt.color13:    #d2b1e2
+!Cyan
+URxvt.color6:     #5c9d88
+URxvt.color14:    #a4d0c1
+!White
+URxvt.color7:     #919191
+URxvt.color15:    #d0d0d0

@@ -1,0 +1,21 @@
+
+*.foreground:   #adadad
+*.background:   #202020
+*.cursorColor:  #adadad
+*.color0:       #202020
+*.color8:       #404040
+*.color1:       #707070
+*.color9:       #e72d6a
+*.color2:       #808080
+*.color10:      #cf275f
+*.color3:       #909090
+*.color11:      #b52253
+*.color4:       #a0a0a0
+*.color12:      #2cc9e8
+*.color5:       #505050
+*.color13:      #27b3cf
+*.color6:       #606060
+*.color14:      #229db5
+*.color7:       #adadad
+*.color15:      #e7e7e7
+

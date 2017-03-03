@@ -1,0 +1,31 @@
+! black + grey
+*.color0:  #202020
+*.color8:  #505050
+
+! red
+*.color1:  #a07070
+*.color9:  #d07070
+
+! green
+*.color2:  #70a070
+*.color10: #70d070
+
+! yellow
+*.color3:  #a0a070
+*.color11: #d0d070
+
+! blue
+*.color4:  #7070a0
+*.color12: #7070d0
+
+! magenta
+*.color5:  #a070a0
+*.color13: #d070d0
+
+! cyan
+*.color6:  #70a0a0
+*.color14: #70d0d0
+
+! light gray + white
+*.color7:  #a0a0a0
+*.color15: #f0f0f0

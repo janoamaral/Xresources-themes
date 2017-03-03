@@ -1,0 +1,35 @@
+!Baskerville - Eldorado dark
+*background:  #292929
+*foreground:  #A2A2A2
+
+! BLACK
+*color0:      #4E4E4E
+*color8:      #777777
+
+! WHITE
+*color7:      #CFCFCF
+*color15:     #FFFFFF
+
+! RED
+*color1:      #A9635D
+*color9:      #FFBBB2
+
+! YELLOW
+*color3:      #84763D
+*color11:     #E0CE91
+
+! GREEN
+*color2:      #468459
+*color10:     #9DDEAF
+
+! CYAN
+*color6:      #008592
+*color14:     #79E0ED
+
+! BLUE
+*color4:      #5879AF
+*color12:     #B3D1FF
+
+! MAGENTA
+*color5:      #9C6594
+*color13:     #FABDF0

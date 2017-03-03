@@ -1,0 +1,26 @@
+! mikado colors
+!black
+*color0:    #322a2c
+*color8:    #46423b
+!red
+*color1:    #a04363
+*color9:    #ae837a
+!green
+*color2:    #9b9329
+*color10:   #b4aa30
+!yellow
+!*color3:    #c77920
+*color3:    #bf7a29
+*color11:   #c7a551
+!blue
+*color4:    #6a8c8c
+*color12:   #74999e
+!magenta
+*color5:    #856774
+*color13:   #9c818e
+!cyan
+*color6:    #757978
+*color14:   #9fa590
+!white
+*color7:    #bcbcaf
+*color15:   #c1c4bc

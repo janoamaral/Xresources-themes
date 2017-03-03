@@ -1,0 +1,27 @@
+!el_k gslob re-write
+
+!MONOSCHEME
+!BLACK
+*color0:  #000000
+*color8:  #202020
+!RED
+*color1:               #6b6b6b
+*color9:               #464646
+!GREEN
+*color2:               #C4C4C4
+*color10:              #F8F8F8
+!YELLOW
+*color3:               #b3b3b3
+*color11:              #EEEEEE
+!BLUE
+*color4:               #999999
+*color12:              #7c7c7c
+!MAGENTA
+*color5:               #717171
+*color13:              #adadad
+!CYAN
+*color6:               #8A8A8A
+*color14:              #C0C0C0
+!WHITE
+*color7:  #b5cabb
+*color15: #99ac9e

@@ -1,0 +1,32 @@
+!Muzieca - pastel white
+!Black
+*color0: #646e5b
+*color8: #88927e
+
+!Red
+*color1: #db7464
+*color9: #dba08f
+
+!Green
+*color2: #a7e160
+*color10: #bde18b
+
+!Yellow
+*color3: #dbd560
+*color11: #dbda8b
+
+!Blue
+*color4: #69b2d6
+*color12: #95a9d6
+
+!Magenta
+*color5: #a073d6
+*color13: #b59fd6
+
+!Cyan
+*color6: #69e1d3
+*color14: #95e1d2
+
+!White
+*color7: #9ea894
+*color15: #c9d0c2

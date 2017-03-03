@@ -1,0 +1,35 @@
+!baskerville - lost woods
+*background:  #000000
+*foreground:  #919191
+
+! BLACK
+*color0:      #303030
+*color8:      #5E5E5E
+
+! WHITE
+*color7:      #C6C6C6
+*color15:     #FFFFFF
+
+! RED
+*color1:      #A13A38
+*color9:      #FFA59A
+
+! YELLOW
+*color3:      #006F32
+*color11:     #73DB95
+
+! GREEN
+*color2:      #00715D
+*color10:     #24DFC4
+
+! CYAN
+*color6:      #007086
+*color14:     #00DDF4
+
+! BLUE
+*color4:      #A43261
+*color12:     #FF9FC9
+
+! MAGENTA
+*color5:      #913E88
+*color13:     #FFA7F6

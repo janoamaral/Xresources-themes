@@ -1,0 +1,36 @@
+*background:  rgb:00/00/00
+*foreground:  rgb:a8/a8/a8
+
+! Black
+*color0:      rgb:00/00/00
+*color8:      rgb:54/50/54
+
+! Red
+*color1:      rgb:a8/00/00
+*color9:      rgb:f8/54/50
+
+! Green
+*color2:      rgb:00/a8/00
+*color10:     rgb:50/fc/50
+
+! Yellow
+*color3:      rgb:a8/54/00
+*color11:     rgb:f8/fc/50
+
+! Blue
+*color4:      rgb:00/00/a8
+*color12:     rgb:50/54/f8
+
+! Magneta
+*color5:      rgb:a8/00/a8
+*color13:     rgb:f8/54/f8
+
+! Cyan
+*color6:      rgb:00/a8/a8
+*color14:     rgb:50/fc/f8
+
+! White
+*color7:      rgb:a8/a8/a8
+*color15:     rgb:f8/fc/f8
+
+! vim: et sw=2 syn=xdefaults

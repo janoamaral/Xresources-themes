@@ -1,0 +1,45 @@
+! Base16 Materia
+! Scheme: Defman21
+
+#define base00 #263238
+#define base01 #2C393F
+#define base02 #37474F
+#define base03 #707880
+#define base04 #C9CCD3
+#define base05 #CDD3DE
+#define base06 #D5DBE5
+#define base07 #FFFFFF
+#define base08 #EC5F67
+#define base09 #EA9560
+#define base0A #FFCC00
+#define base0B #8BD649
+#define base0C #80CBC4
+#define base0D #89DDFF
+#define base0E #82AAFF
+#define base0F #EC5F67
+
+*.foreground:   base05
+#ifdef background_opacity
+*.background:   [background_opacity]base00
+#else
+*.background:   base00
+#endif
+*.cursorColor:  base05
+
+*.color0:       base00
+*.color1:       base08
+*.color2:       base0B
+*.color3:       base0A
+*.color4:       base0D
+*.color5:       base0E
+*.color6:       base0C
+*.color7:       base05
+
+*.color8:       base03
+*.color9:       base09
+*.color10:      base01
+*.color11:      base02
+*.color12:      base04
+*.color13:      base06
+*.color14:      base0F
+*.color15:      base07

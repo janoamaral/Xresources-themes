@@ -1,0 +1,54 @@
+! Base16 Summerfruit Light
+! Scheme: Christopher Corley (http://christop.club/)
+
+#define base00 #FFFFFF
+#define base01 #E0E0E0
+#define base02 #D0D0D0
+#define base03 #B0B0B0
+#define base04 #000000
+#define base05 #101010
+#define base06 #151515
+#define base07 #202020
+#define base08 #FF0086
+#define base09 #FD8900
+#define base0A #ABA800
+#define base0B #00C918
+#define base0C #1FAAAA
+#define base0D #3777E6
+#define base0E #AD00A1
+#define base0F #CC6633
+
+*.foreground:   base05
+#ifdef background_opacity
+*.background:   [background_opacity]base00
+#else
+*.background:   base00
+#endif
+*.cursorColor:  base05
+
+*.color0:       base00
+*.color1:       base08
+*.color2:       base0B
+*.color3:       base0A
+*.color4:       base0D
+*.color5:       base0E
+*.color6:       base0C
+*.color7:       base05
+
+*.color8:       base03
+*.color9:       base08
+*.color10:      base0B
+*.color11:      base0A
+*.color12:      base0D
+*.color13:      base0E
+*.color14:      base0C
+*.color15:      base07
+
+! Note: colors beyond 15 might not be loaded (e.g., xterm, urxvt),
+! use 'shell' template to set these if necessary
+*.color16:      base09
+*.color17:      base0F
+*.color18:      base01
+*.color19:      base02
+*.color20:      base04
+*.color21:      base06

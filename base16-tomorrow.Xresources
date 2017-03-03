@@ -1,0 +1,45 @@
+! Base16 Tomorrow
+! Scheme: Chris Kempson (http://chriskempson.com)
+
+#define base00 #ffffff
+#define base01 #e0e0e0
+#define base02 #d6d6d6
+#define base03 #8e908c
+#define base04 #969896
+#define base05 #4d4d4c
+#define base06 #282a2e
+#define base07 #1d1f21
+#define base08 #c82829
+#define base09 #f5871f
+#define base0A #eab700
+#define base0B #718c00
+#define base0C #3e999f
+#define base0D #4271ae
+#define base0E #8959a8
+#define base0F #a3685a
+
+*.foreground:   base05
+#ifdef background_opacity
+*.background:   [background_opacity]base00
+#else
+*.background:   base00
+#endif
+*.cursorColor:  base05
+
+*.color0:       base00
+*.color1:       base08
+*.color2:       base0B
+*.color3:       base0A
+*.color4:       base0D
+*.color5:       base0E
+*.color6:       base0C
+*.color7:       base05
+
+*.color8:       base03
+*.color9:       base09
+*.color10:      base01
+*.color11:      base02
+*.color12:      base04
+*.color13:      base06
+*.color14:      base0F
+*.color15:      base07

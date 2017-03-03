@@ -1,0 +1,36 @@
+!baskerville - ivory dark
+*background:  #2D2C28
+*foreground:  #A4A6AB
+
+
+! BLACK
+*color0:      #5B5955
+*color8:      #707277
+
+! WHITE
+*color7:      #DBDDE2
+*color15:     #F7F9FF
+
+! RED
+*color1:      #C4756E
+*color9:      #F6A299
+
+! YELLOW
+*color3:      #9B8A4B
+*color11:     #CAB775
+
+! GREEN
+*color2:      #559A6A
+*color10:     #82C896
+
+! CYAN
+*color6:      #019BAA
+*color14:     #53CAD9
+
+! BLUE
+*color4:      #6A8DCA
+*color12:     #98BBFB
+
+! MAGENTA
+*color5:      #B577AC
+*color13:     #E5A4DB

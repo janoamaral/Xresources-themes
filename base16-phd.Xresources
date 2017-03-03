@@ -1,0 +1,45 @@
+! Base16 PhD
+! Scheme: Hennig Hasemann (http://leetless.de/vim.html)
+
+#define base00 #061229
+#define base01 #2a3448
+#define base02 #4d5666
+#define base03 #717885
+#define base04 #9a99a3
+#define base05 #b8bbc2
+#define base06 #dbdde0
+#define base07 #ffffff
+#define base08 #d07346
+#define base09 #f0a000
+#define base0A #fbd461
+#define base0B #99bf52
+#define base0C #72b9bf
+#define base0D #5299bf
+#define base0E #9989cc
+#define base0F #b08060
+
+*.foreground:   base05
+#ifdef background_opacity
+*.background:   [background_opacity]base00
+#else
+*.background:   base00
+#endif
+*.cursorColor:  base05
+
+*.color0:       base00
+*.color1:       base08
+*.color2:       base0B
+*.color3:       base0A
+*.color4:       base0D
+*.color5:       base0E
+*.color6:       base0C
+*.color7:       base05
+
+*.color8:       base03
+*.color9:       base09
+*.color10:      base01
+*.color11:      base02
+*.color12:      base04
+*.color13:      base06
+*.color14:      base0F
+*.color15:      base07

@@ -1,0 +1,33 @@
+! Black
+*color0:   #222222
+*color8:   #454545
+
+! Red
+*color1:   #9E5641
+*color9:   #CC896D
+
+! Green
+*color2:   #6C7E55
+*color10:  #7DB37D
+
+! Yellow
+*color3:   #CAAF2B
+*color11:  #BFB556
+
+! Blue
+*color4:   #4c8ea1
+*color12:  #6bc1d0
+
+! Magenta
+*color5:   #956D9D
+*color13:  #C18FCB
+
+! Cyan
+*color6:   #7C9AA6
+*color14:  #8FADBF
+
+! White
+*color7:   #909090
+*color15:  #FFFFFF
+
+! vim: et sw=2 syn=xdefaults

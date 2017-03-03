@@ -1,0 +1,37 @@
+! vim:ft=xdefaults
+! euphrasia v. 1.0
+! by bohoomil
+
+! Xresources
+!URxvt*background:  #000C1A
+!URxvt*foreground:  #ACB4BF
+!URxvt*cursorColor: #335A80
+
+! fg/bg for Xorg apps
+*background:    #CFCFD9
+*foreground:    #1C2027
+
+! black
+*color0:    #192033
+*color8:    #666666
+! red
+*color1:    #A62A3E
+*color9:    #F04758
+! green
+*color2:    #38912B
+*color10:   #93C724
+! yellow
+*color3:    #B27D12
+*color11:   #DDB62B
+! blue
+*color4:    #355C9A
+*color12:   #45A3E6
+! magenta
+*color5:    #7C4F9F
+*color13:   #C953EF
+! cyan
+*color6:    #258F8F
+*color14:   #60C6C8
+! white
+*color7:    #77858C
+*color15:   #C0C0C0

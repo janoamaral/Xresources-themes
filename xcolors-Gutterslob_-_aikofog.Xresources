@@ -1,0 +1,28 @@
+!Gutterslob - aikofog
+URxvt.background: #f1eee9
+URxvt.foreground: #b2b3b8
+
+!Black
+URxvt.color0:     #757475
+URxvt.color8:     #4a4a4a
+!Red
+URxvt.color1:     #936a6f
+URxvt.color9:     #d76572
+!Green
+URxvt.color2:     #668462
+URxvt.color10:    #4fae42
+!Yellow
+URxvt.color3:     #7f7b62
+URxvt.color11:    #a8981f
+!Blue
+URxvt.color4:     #6e7291
+URxvt.color12:    #7782cf
+!Magenta
+URxvt.color5:     #846887
+URxvt.color13:    #b754c4
+!Cyan
+URxvt.color6:     #637e7b
+URxvt.color14:    #2ea89a
+!White
+URxvt.color7:     #9a9a9a
+URxvt.color15:    #c4c4c4

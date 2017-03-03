@@ -1,0 +1,42 @@
+!baskerville-ivorylight
+
+*background:  #FEF9EC
+*foreground:  #6D727E
+
+*colorBD:     #3E424D
+*colorIT:     #3E424D
+*colorUL:     #3E424D
+
+*cursorColor: #007693
+
+! BLACK
+*color0:      #C5C1B4
+*color8:      #A1A6B2
+
+! WHITE
+*color7:      #3E424D
+*color15:     #282C36
+
+! RED
+*color1:      #E75C58
+*color9:      #B22B31
+
+! YELLOW
+*color3:      #A08A00
+*color11:     #715F00
+
+! GREEN
+*color2:      #00A250
+*color10:     #007427
+
+! CYAN
+*color6:      #00A4C1
+*color14:     #007693
+
+! BLUE
+*color4:      #208FFB
+*color12:     #0065CA
+
+! MAGENTA
+*color5:      #D160C4
+*color13:     #A03196

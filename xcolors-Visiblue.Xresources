@@ -1,0 +1,29 @@
+!Gutterslob Visiblue
+urxvt*background:           #000000
+urxvt*foreground:           #666699
+
+
+!Visiblue
+urxvt*color0:               #333366
+urxvt*color8:               #333399
+
+urxvt*color1:               #6666CC
+urxvt*color9:               #9999FF
+
+urxvt*color2:               #0099CC
+urxvt*color10:              #00CCFF
+
+urxvt*color3:               #3366CC
+urxvt*color11:              #6699FF
+
+urxvt*color4:               #006699
+urxvt*color12:              #0099CC
+
+urxvt*color5:               #0066FF
+urxvt*color13:              #0099FF
+
+urxvt*color6:               #669999
+urxvt*color14:              #66CCCC
+
+urxvt*color7:               #99CCCC
+urxvt*color15:              #CCFFFF
