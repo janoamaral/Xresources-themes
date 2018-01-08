@@ -1,0 +1,38 @@
+! Grey theming
+!URxvt*background: #cecece
+!URxvt*foreground: #101010
+URxvt.background: [85]#2e3436
+URxvt.foreground: #d8d8d8
+
+! Black
+URxvt.color0: #000000
+URxvt.color8: #666666
+
+! Red
+URxvt.color1: #9e1828
+URxvt.color9: #cf6171
+
+! Green
+URxvt.color2: #aece92
+URxvt.color10: #c5f779
+
+! Yellow
+URxvt.color3: #968a38
+URxvt.color11: #fff796
+
+! Blue
+URxvt.color4: #414171
+URxvt.color12: #4186be
+
+! Magenta
+URxvt.color5: #963c59
+URxvt.color13: #cf9ebe
+
+!Cyan
+URxvt.color6: #418179
+URxvt.color14: #71bebe
+
+! White
+URxvt.color7: #bebebe
+URxvt.color15: #ffffff
+

@@ -1,0 +1,30 @@
+! Custom
+*.foreground:   #ffffff
+*.background:   #000000
+!*.cursorColor:   #f81ce5
+*.cursorColor:   #ffff00
+*.highlightColor:#3A3A3A
+! Negro y gris
+*.color0:       #000000
+*.color8:       #808080
+! Rojos
+*.color1:       #ff0000
+*.color9:       #ff0000
+! Verde
+*.color2:       #33ff00
+*.color10:      #33ff00
+! Amarillo
+*.color3:       #ffff00
+*.color11:      #fffff0
+! Azul
+*.color4:       #0066ff
+*.color12:      #0066ff
+! Cyan
+*.color5:       #cc00ff
+*.color13:      #cc00ff
+! Magenta
+*.color6:       #00ffff
+*.color14:      #00ffff
+! Blanco
+*.color7:       #d0d0d0
+*.color15:      #ffffff

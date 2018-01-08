@@ -1,7 +1,7 @@
 ! Base16 Materia
 ! Scheme: Defman21
 
-#define base00 #263238
+#define base00 #252B39
 #define base01 #2C393F
 #define base02 #37474F
 #define base03 #707880

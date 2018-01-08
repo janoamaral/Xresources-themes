@@ -1,0 +1,28 @@
+! Numix
+
+*background: #2d2d2d
+*foreground: #dedede
+! black
+ *color0:    #2d2d2d
+ *color8:    #dedede
+! red
+ *color1:    #d64937
+ *color9:    #d64937
+! green
+ *color2:    #d64937
+ *color10:   #00ff00
+! yellow
+ *color3:    #dedede
+ *color11:   #dedede
+! blue
+ *color4:    #d64937
+ *color12:   #d64937
+! magenta
+ *color5:    #ff0000
+ *color13:   #dedede
+! cyan
+ *color6:    #dedede
+ *color14:   #dedede
+! white
+ *color7:    #dedede
+ *color15:   #dedede
